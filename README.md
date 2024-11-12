@@ -20,6 +20,7 @@
 **Descrição**: Este projeto fornece uma base para a criação de um analisador de documentos usando Python.
 
 **Tecnologias Utilizadas**:
+- IA do Azure
 - Python 3.8+
 - Azure Storage
 - VSCode
