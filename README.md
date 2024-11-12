@@ -1,4 +1,4 @@
-# bootcampDIO-AI-102
+# BootcampDIO-AI-102
 
 ![Projeto Exemplo](https://miro.medium.com/v2/resize:fit:659/0*ROmT-rhiAteKkbRK.png)
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Este é um projeto de exemplo desenvolvido durante o bootcampDIO-AI-102. O objetivo deste projeto é fornecer uma base para a criação de um analisador de documentos usando Python.
+  Este é um projeto de exemplo desenvolvido durante o BootcampDIO-AI-102. O objetivo deste projeto é fornecer uma base para a criação de um analisador de documentos usando Python.
 </p>
 
 ## Tecnologias Utilizadas
@@ -25,7 +25,7 @@
 ## Estrutura do Projeto
 
 <pre>
-Criando_um_analisador_de_documentos/
+bootcampDIO-AI-102/
 ├── DOCS/
 │   ├── .env
 │   ├── .gitignore
