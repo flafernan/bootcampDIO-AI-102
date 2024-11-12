@@ -46,17 +46,18 @@ projeto1-analisador_de_documentos/
    ```bash
    git clone https://github.com/seu_usuario/projeto1-analisador_de_documentos.git
    cd projeto1-analisador_de_documentos
-Crie um ambiente virtual e ative-o:
-python -m venv venv
-source venv/bin/activate  # Para Linux e macOS
-.\venv\Scripts\activate   # Para Windows
-Instale as dependências:
-pip install -r requirements.txt
-Configure as variáveis de ambiente:
+2. Crie um ambiente virtual e ative-o:
+    python -m venv venv
+    source venv/bin/activate  # Para Linux e macOS
+    .\venv\Scripts\activate   # Para Windows
 
-Crie um arquivo .env na pasta DOCS e adicione suas variáveis de ambiente conforme necessário.
-Execute a aplicação:
-python src/app.py
+3. Instale as dependências:
+    pip install -r requirements.txt
+    Configure as variáveis de ambiente:
+4. Configure as variáveis de ambiente:
+    Crie um arquivo .env na pasta DOCS e adicione suas variáveis de ambiente conforme necessário.
+    Execute a aplicação:
+    python src/app.py
 
 **Projeto 2 Analisador de Argtigos Técniso**:
 
@@ -69,8 +70,13 @@ Bicep
 VNet
 App Service
 
-
-
+**Como Executar o Projeto**:
+  Clone o repositório:
+  Crie um grupo de recursos no Azure:
+    "az group create -n openaitest -l eastus"
+  Implante os recursos usando
+  Verifique a implantação e teste o acesso via API.
+  
 
 
 
