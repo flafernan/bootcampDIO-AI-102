@@ -59,7 +59,7 @@ projeto1-analisador_de_documentos/
     Execute a aplicação:
     python src/app.py
 
-**Projeto 2 Analisador de Argtigos Técnico**:
+**Projeto 2 Desenvolver uma solução de Informação de Documentos**:
 
 Descrição: Este projeto demonstra como utilizar o Azure Open AI em um VNet para análise de artigos técnicos.
 
