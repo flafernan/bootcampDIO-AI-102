@@ -59,7 +59,7 @@ projeto1-analisador_de_documentos/
     Execute a aplicação:
     python src/app.py
 
-**Projeto 2 Analisador de Argtigos Técniso**:
+**Projeto 2 Analisador de Argtigos Técnico**:
 
 Descrição: Este projeto demonstra como utilizar o Azure Open AI em um VNet para análise de artigos técnicos.
 
@@ -72,9 +72,12 @@ App Service
 
 **Como Executar o Projeto**:
   Clone o repositório:
+  
   Crie um grupo de recursos no Azure:
     "az group create -n openaitest -l eastus"
+    
   Implante os recursos usando
+  
   Verifique a implantação e teste o acesso via API.
   
 
